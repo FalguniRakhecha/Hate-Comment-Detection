@@ -2,6 +2,7 @@
 It is a deep learning project which is used to detect hate comments on social media. The model will predict if the comment you have entered is a hate comment or not.
 
 #How I built it?
+
 #DATASET
 The model uses a large dataset which is stored inside a CSV file. This is the link to download the dataset and understand how the dataset looks like.
 https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
